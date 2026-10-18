@@ -1,0 +1,539 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="170" viewBox="0 0 794 170" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">
+<style>.t{font-size:13px;font-weight:600}rect.c,rect.f{stroke-width:1}.bg{fill:#fff}text{fill:#57606a}.t{fill:#24292f}rect.c{stroke:#1b1f2312}rect.f{stroke:#1b1f2326}rect.f.hi{stroke:#1b1f2399}.l0{fill:#ebedf0}.l1{fill:#fdba74}.l2{fill:#f97316}.l3{fill:#c2410c}.l4{fill:#7c2d12}@media (prefers-color-scheme: dark){.bg{fill:#0d1117}text{fill:#8b949e}.t{fill:#e6edf3}rect.c{stroke:#ffffff0d}rect.f{stroke:#ffffff1a}rect.f.lo{stroke:#ffffffa0}.l0{fill:#161b22}.l1{fill:#7c2d12}.l2{fill:#c2410c}.l3{fill:#f97316}.l4{fill:#fdba74}}</style>
+<rect class="bg" width="794" height="170" rx="6"/>
+<text class="t" x="42" y="20">11380 g of printing in the last year · 227 prints · 15 failed · longest streak 12 d</text>
+<text x="8" y="63">Mon</text>
+<text x="8" y="91">Wed</text>
+<text x="8" y="119">Fri</text>
+<text x="42" y="34">Oct</text>
+<rect class="c l0" x="42" y="40" width="11" height="11" rx="2"><title>0 g on Oct 19, 2025</title></rect>
+<rect class="c l0" x="42" y="54" width="11" height="11" rx="2"><title>0 g on Oct 20, 2025</title></rect>
+<rect class="c l0" x="42" y="68" width="11" height="11" rx="2"><title>0 g on Oct 21, 2025</title></rect>
+<rect class="c l0" x="42" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="44" y="84" width="7" height="7" rx="1.5" fill="#FF6A13"><title>33 g on Oct 22, 2025 · Calibration cube</title></rect>
+<rect class="c l0" x="42" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="45" y="99" width="5" height="5" rx="1.25" fill="#C12E1F"><title>8 g on Oct 23, 2025 · Calibration cube · 1 failed</title></rect>
+<rect class="c l0" x="42" y="110" width="11" height="11" rx="2"><title>0 g on Oct 24, 2025</title></rect>
+<rect class="c l0" x="42" y="124" width="11" height="11" rx="2"><title>0 g on Oct 25, 2025</title></rect>
+<rect class="c l0" x="56" y="40" width="11" height="11" rx="2"><title>0 g on Oct 26, 2025</title></rect>
+<rect class="c l0" x="56" y="54" width="11" height="11" rx="2"><title>0 g on Oct 27, 2025</title></rect>
+<rect class="c l0" x="56" y="68" width="11" height="11" rx="2"/>
+<rect class="f lo" x="59" y="71" width="5" height="5" rx="1.25" fill="#000000"><title>6 g on Oct 28, 2025 · Keychain</title></rect>
+<rect class="c l0" x="56" y="82" width="11" height="11" rx="2"><title>0 g on Oct 29, 2025</title></rect>
+<rect class="c l0" x="56" y="96" width="11" height="11" rx="2"><title>0 g on Oct 30, 2025</title></rect>
+<rect class="c l0" x="56" y="110" width="11" height="11" rx="2"><title>0 g on Oct 31, 2025</title></rect>
+<rect class="c l0" x="56" y="124" width="11" height="11" rx="2"><title>0 g on Nov 1, 2025</title></rect>
+<rect class="c l0" x="70" y="40" width="11" height="11" rx="2"><title>0 g on Nov 2, 2025</title></rect>
+<rect class="c l0" x="70" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="71" y="55" width="9" height="9" rx="1.75" fill="#FF6A13"><title>79 g on Nov 3, 2025 · Cable clip, Planter</title></rect>
+<rect class="c l0" x="70" y="68" width="11" height="11" rx="2"><title>0 g on Nov 4, 2025</title></rect>
+<rect class="c l0" x="70" y="82" width="11" height="11" rx="2"><title>0 g on Nov 5, 2025</title></rect>
+<rect class="c l0" x="70" y="96" width="11" height="11" rx="2"><title>0 g on Nov 6, 2025</title></rect>
+<rect class="c l0" x="70" y="110" width="11" height="11" rx="2"><title>0 g on Nov 7, 2025</title></rect>
+<rect class="c l0" x="70" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="73" y="127" width="5" height="5" rx="1.25" fill="#0A2989"><title>4 g on Nov 8, 2025 · Calibration cube</title></rect>
+<rect class="c l0" x="84" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="85" y="41" width="9" height="9" rx="1.75" fill="#0A2989"><title>83 g on Nov 9, 2025 · Planter, Keychain</title></rect>
+<rect class="c l0" x="84" y="54" width="11" height="11" rx="2"><title>0 g on Nov 10, 2025</title></rect>
+<rect class="c l0" x="84" y="68" width="11" height="11" rx="2"><title>0 g on Nov 11, 2025</title></rect>
+<rect class="c l0" x="84" y="82" width="11" height="11" rx="2"><title>0 g on Nov 12, 2025</title></rect>
+<rect class="c l0" x="84" y="96" width="11" height="11" rx="2"><title>0 g on Nov 13, 2025</title></rect>
+<rect class="c l0" x="84" y="110" width="11" height="11" rx="2"><title>0 g on Nov 14, 2025</title></rect>
+<rect class="c l0" x="84" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="84" y="124" width="11" height="11" rx="2" fill="#8E9089"><title>187 g on Nov 15, 2025 · Shadow pumpkin, Keychain</title></rect>
+<rect class="c l0" x="98" y="40" width="11" height="11" rx="2"><title>0 g on Nov 16, 2025</title></rect>
+<rect class="c l0" x="98" y="54" width="11" height="11" rx="2"><title>0 g on Nov 17, 2025</title></rect>
+<rect class="c l0" x="98" y="68" width="11" height="11" rx="2"><title>0 g on Nov 18, 2025</title></rect>
+<rect class="c l0" x="98" y="82" width="11" height="11" rx="2"><title>0 g on Nov 19, 2025</title></rect>
+<rect class="c l0" x="98" y="96" width="11" height="11" rx="2"/>
+<rect class="f lo" x="101" y="99" width="5" height="5" rx="1.25" fill="#000000"><title>13 g on Nov 20, 2025 · Planter</title></rect>
+<rect class="c l0" x="98" y="110" width="11" height="11" rx="2"><title>0 g on Nov 21, 2025</title></rect>
+<rect class="c l0" x="98" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="100" y="126" width="7" height="7" rx="1.5" fill="#8E9089"><title>38 g on Nov 22, 2025 · Cable clip</title></rect>
+<rect class="c l0" x="112" y="40" width="11" height="11" rx="2"><title>0 g on Nov 23, 2025</title></rect>
+<rect class="c l0" x="112" y="54" width="11" height="11" rx="2"><title>0 g on Nov 24, 2025</title></rect>
+<rect class="c l0" x="112" y="68" width="11" height="11" rx="2"><title>0 g on Nov 25, 2025</title></rect>
+<rect class="c l0" x="112" y="82" width="11" height="11" rx="2"><title>0 g on Nov 26, 2025</title></rect>
+<rect class="c l0" x="112" y="96" width="11" height="11" rx="2"><title>0 g on Nov 27, 2025</title></rect>
+<rect class="c l0" x="112" y="110" width="11" height="11" rx="2"><title>0 g on Nov 28, 2025</title></rect>
+<rect class="c l0" x="112" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="115" y="127" width="5" height="5" rx="1.25" fill="#C12E1F"><title>8 g on Nov 29, 2025 · Keychain</title></rect>
+<rect class="c l0" x="126" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="127" y="41" width="9" height="9" rx="1.75" fill="#8E9089"><title>74 g on Nov 30, 2025 · Spool holder</title></rect>
+<rect class="c l0" x="126" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="128" y="56" width="7" height="7" rx="1.5" fill="#FF6A13"><title>37 g on Dec 1, 2025 · Keychain, Spool holder</title></rect>
+<rect class="c l0" x="126" y="68" width="11" height="11" rx="2"/>
+<rect class="f hi" x="128" y="70" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>35 g on Dec 2, 2025 · Cable clip</title></rect>
+<rect class="c l0" x="126" y="82" width="11" height="11" rx="2"><title>0 g on Dec 3, 2025</title></rect>
+<rect class="c l0" x="126" y="96" width="11" height="11" rx="2"><title>0 g on Dec 4, 2025</title></rect>
+<rect class="c l0" x="126" y="110" width="11" height="11" rx="2"><title>0 g on Dec 5, 2025</title></rect>
+<rect class="c l0" x="126" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="126" y="124" width="11" height="11" rx="2" fill="#C12E1F"><title>176 g on Dec 6, 2025 · Planter, Cable clip</title></rect>
+<text x="140" y="34">Dec</text>
+<rect class="c l0" x="140" y="40" width="11" height="11" rx="2"><title>0 g on Dec 7, 2025</title></rect>
+<rect class="c l0" x="140" y="54" width="11" height="11" rx="2"><title>0 g on Dec 8, 2025</title></rect>
+<rect class="c l0" x="140" y="68" width="11" height="11" rx="2"><title>0 g on Dec 9, 2025</title></rect>
+<rect class="c l0" x="140" y="82" width="11" height="11" rx="2"><title>0 g on Dec 10, 2025</title></rect>
+<rect class="c l0" x="140" y="96" width="11" height="11" rx="2"><title>0 g on Dec 11, 2025</title></rect>
+<rect class="c l0" x="140" y="110" width="11" height="11" rx="2"><title>0 g on Dec 12, 2025</title></rect>
+<rect class="c l0" x="140" y="124" width="11" height="11" rx="2"><title>0 g on Dec 13, 2025</title></rect>
+<rect class="c l0" x="154" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="155" y="41" width="9" height="9" rx="1.75" fill="#C12E1F"><title>88 g on Dec 14, 2025 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="154" y="54" width="11" height="11" rx="2"><title>0 g on Dec 15, 2025</title></rect>
+<rect class="c l0" x="154" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="155" y="69" width="9" height="9" rx="1.75" fill="#C12E1F"><title>123 g on Dec 16, 2025 · Desk calendar</title></rect>
+<rect class="c l0" x="154" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="156" y="84" width="7" height="7" rx="1.5" fill="#8E9089"><title>50 g on Dec 17, 2025 · Cable clip, Keychain</title></rect>
+<rect class="c l0" x="154" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="154" y="96" width="11" height="11" rx="2" fill="#FF6A13"><title>192 g on Dec 18, 2025 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="154" y="110" width="11" height="11" rx="2"/>
+<rect class="f hi" x="157" y="113" width="5" height="5" rx="1.25" fill="#FFFFFF"><title>7 g on Dec 19, 2025 · Shadow pumpkin · 1 failed</title></rect>
+<rect class="c l0" x="154" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="154" y="124" width="11" height="11" rx="2" fill="#FF6A13"><title>165 g on Dec 20, 2025 · Desk calendar, Calibration cube</title></rect>
+<rect class="c l0" x="168" y="40" width="11" height="11" rx="2"/>
+<rect class="f hi" x="168" y="40" width="11" height="11" rx="2" fill="#F4EE2A"><title>148 g on Dec 21, 2025 · Spool holder · 1 failed</title></rect>
+<rect class="c l0" x="168" y="54" width="11" height="11" rx="2"/>
+<rect class="f lo" x="169" y="55" width="9" height="9" rx="1.75" fill="#000000"><title>104 g on Dec 22, 2025 · Shadow pumpkin, Spool holder</title></rect>
+<rect class="c l0" x="168" y="68" width="11" height="11" rx="2"><title>0 g on Dec 23, 2025</title></rect>
+<rect class="c l0" x="168" y="82" width="11" height="11" rx="2"><title>0 g on Dec 24, 2025</title></rect>
+<rect class="c l0" x="168" y="96" width="11" height="11" rx="2"><title>0 g on Dec 25, 2025</title></rect>
+<rect class="c l0" x="168" y="110" width="11" height="11" rx="2"><title>0 g on Dec 26, 2025</title></rect>
+<rect class="c l0" x="168" y="124" width="11" height="11" rx="2"><title>0 g on Dec 27, 2025</title></rect>
+<rect class="c l0" x="182" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="182" y="40" width="11" height="11" rx="2" fill="#8E9089"><title>190 g on Dec 28, 2025 · Spool holder</title></rect>
+<rect class="c l0" x="182" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="184" y="56" width="7" height="7" rx="1.5" fill="#8E9089"><title>32 g on Dec 29, 2025 · Desk calendar, Shadow pumpkin, Keychain</title></rect>
+<rect class="c l0" x="182" y="68" width="11" height="11" rx="2"><title>0 g on Dec 30, 2025</title></rect>
+<rect class="c l0" x="182" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="185" y="85" width="5" height="5" rx="1.25" fill="#8E9089"><title>13 g on Dec 31, 2025 · Planter</title></rect>
+<rect class="c l0" x="182" y="96" width="11" height="11" rx="2"><title>0 g on Jan 1, 2026</title></rect>
+<rect class="c l0" x="182" y="110" width="11" height="11" rx="2"><title>0 g on Jan 2, 2026</title></rect>
+<rect class="c l0" x="182" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="184" y="126" width="7" height="7" rx="1.5" fill="#8E9089"><title>45 g on Jan 3, 2026 · Shadow pumpkin</title></rect>
+<text x="196" y="34">Jan</text>
+<rect class="c l0" x="196" y="40" width="11" height="11" rx="2"/>
+<rect class="f hi" x="198" y="42" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>37 g on Jan 4, 2026 · Shadow pumpkin, Spool holder, Cable clip</title></rect>
+<rect class="c l0" x="196" y="54" width="11" height="11" rx="2"><title>0 g on Jan 5, 2026</title></rect>
+<rect class="c l0" x="196" y="68" width="11" height="11" rx="2"><title>0 g on Jan 6, 2026</title></rect>
+<rect class="c l0" x="196" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="196" y="82" width="11" height="11" rx="2" fill="#8E9089"><title>136 g on Jan 7, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="196" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="199" y="99" width="5" height="5" rx="1.25" fill="#00AE42"><title>9 g on Jan 8, 2026 · Keychain</title></rect>
+<rect class="c l0" x="196" y="110" width="11" height="11" rx="2"><title>0 g on Jan 9, 2026</title></rect>
+<rect class="c l0" x="196" y="124" width="11" height="11" rx="2"/>
+<rect class="f hi" x="197" y="125" width="9" height="9" rx="1.75" fill="#F4EE2A"><title>114 g on Jan 10, 2026 · Desk calendar, Cable clip</title></rect>
+<rect class="c l0" x="210" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="212" y="42" width="7" height="7" rx="1.5" fill="#00AE42"><title>24 g on Jan 11, 2026 · Planter</title></rect>
+<rect class="c l0" x="210" y="54" width="11" height="11" rx="2"><title>0 g on Jan 12, 2026</title></rect>
+<rect class="c l0" x="210" y="68" width="11" height="11" rx="2"><title>0 g on Jan 13, 2026</title></rect>
+<rect class="c l0" x="210" y="82" width="11" height="11" rx="2"/>
+<rect class="f lo" x="213" y="85" width="5" height="5" rx="1.25" fill="#000000"><title>13 g on Jan 14, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="210" y="96" width="11" height="11" rx="2"><title>0 g on Jan 15, 2026</title></rect>
+<rect class="c l0" x="210" y="110" width="11" height="11" rx="2"><title>0 g on Jan 16, 2026</title></rect>
+<rect class="c l0" x="210" y="124" width="11" height="11" rx="2"><title>0 g on Jan 17, 2026</title></rect>
+<rect class="c l0" x="224" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="226" y="42" width="7" height="7" rx="1.5" fill="#FF6A13"><title>26 g on Jan 18, 2026 · Keychain</title></rect>
+<rect class="c l0" x="224" y="54" width="11" height="11" rx="2"/>
+<rect class="f lo" x="224" y="54" width="11" height="11" rx="2" fill="#000000"><title>130 g on Jan 19, 2026 · Keychain, Cable clip</title></rect>
+<rect class="c l0" x="224" y="68" width="11" height="11" rx="2"><title>0 g on Jan 20, 2026</title></rect>
+<rect class="c l0" x="224" y="82" width="11" height="11" rx="2"><title>0 g on Jan 21, 2026</title></rect>
+<rect class="c l0" x="224" y="96" width="11" height="11" rx="2"><title>0 g on Jan 22, 2026</title></rect>
+<rect class="c l0" x="224" y="110" width="11" height="11" rx="2"/>
+<rect class="f hi" x="225" y="111" width="9" height="9" rx="1.75" fill="#F4EE2A"><title>99 g on Jan 23, 2026 · Planter</title></rect>
+<rect class="c l0" x="224" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="227" y="127" width="5" height="5" rx="1.25" fill="#0A2989"><title>12 g on Jan 24, 2026 · Planter</title></rect>
+<rect class="c l0" x="238" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="241" y="43" width="5" height="5" rx="1.25" fill="#0A2989"><title>22 g on Jan 25, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="238" y="54" width="11" height="11" rx="2"><title>0 g on Jan 26, 2026</title></rect>
+<rect class="c l0" x="238" y="68" width="11" height="11" rx="2"><title>0 g on Jan 27, 2026</title></rect>
+<rect class="c l0" x="238" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="240" y="84" width="7" height="7" rx="1.5" fill="#C12E1F"><title>46 g on Jan 28, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="238" y="96" width="11" height="11" rx="2"><title>0 g on Jan 29, 2026</title></rect>
+<rect class="c l0" x="238" y="110" width="11" height="11" rx="2"><title>0 g on Jan 30, 2026</title></rect>
+<rect class="c l0" x="238" y="124" width="11" height="11" rx="2"><title>0 g on Jan 31, 2026</title></rect>
+<text x="252" y="34">Feb</text>
+<rect class="c l0" x="252" y="40" width="11" height="11" rx="2"><title>0 g on Feb 1, 2026</title></rect>
+<rect class="c l0" x="252" y="54" width="11" height="11" rx="2"><title>0 g on Feb 2, 2026</title></rect>
+<rect class="c l0" x="252" y="68" width="11" height="11" rx="2"><title>0 g on Feb 3, 2026</title></rect>
+<rect class="c l0" x="252" y="82" width="11" height="11" rx="2"><title>0 g on Feb 4, 2026</title></rect>
+<rect class="c l0" x="252" y="96" width="11" height="11" rx="2"><title>0 g on Feb 5, 2026</title></rect>
+<rect class="c l0" x="252" y="110" width="11" height="11" rx="2"/>
+<rect class="f" x="253" y="111" width="9" height="9" rx="1.75" fill="#00AE42"><title>121 g on Feb 6, 2026 · Cable clip, Calibration cube</title></rect>
+<rect class="c l0" x="252" y="124" width="11" height="11" rx="2"><title>0 g on Feb 7, 2026</title></rect>
+<rect class="c l0" x="266" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="266" y="40" width="11" height="11" rx="2" fill="#0A2989"><title>138 g on Feb 8, 2026 · Planter</title></rect>
+<rect class="c l0" x="266" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="266" y="54" width="11" height="11" rx="2" fill="#0A2989"><title>194 g on Feb 9, 2026 · Desk calendar, Spool holder · 1 failed</title></rect>
+<rect class="c l0" x="266" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="267" y="69" width="9" height="9" rx="1.75" fill="#8E9089"><title>69 g on Feb 10, 2026 · Desk calendar · 1 failed</title></rect>
+<rect class="c l0" x="266" y="82" width="11" height="11" rx="2"><title>0 g on Feb 11, 2026</title></rect>
+<rect class="c l0" x="266" y="96" width="11" height="11" rx="2"><title>0 g on Feb 12, 2026</title></rect>
+<rect class="c l0" x="266" y="110" width="11" height="11" rx="2"><title>0 g on Feb 13, 2026</title></rect>
+<rect class="c l0" x="266" y="124" width="11" height="11" rx="2"><title>0 g on Feb 14, 2026</title></rect>
+<rect class="c l0" x="280" y="40" width="11" height="11" rx="2"><title>0 g on Feb 15, 2026</title></rect>
+<rect class="c l0" x="280" y="54" width="11" height="11" rx="2"><title>0 g on Feb 16, 2026</title></rect>
+<rect class="c l0" x="280" y="68" width="11" height="11" rx="2"><title>0 g on Feb 17, 2026</title></rect>
+<rect class="c l0" x="280" y="82" width="11" height="11" rx="2"><title>0 g on Feb 18, 2026</title></rect>
+<rect class="c l0" x="280" y="96" width="11" height="11" rx="2"><title>0 g on Feb 19, 2026</title></rect>
+<rect class="c l0" x="280" y="110" width="11" height="11" rx="2"><title>0 g on Feb 20, 2026</title></rect>
+<rect class="c l0" x="280" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="280" y="124" width="11" height="11" rx="2" fill="#0A2989"><title>132 g on Feb 21, 2026 · Planter</title></rect>
+<rect class="c l0" x="294" y="40" width="11" height="11" rx="2"/>
+<rect class="f hi" x="294" y="40" width="11" height="11" rx="2" fill="#FFFFFF"><title>157 g on Feb 22, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="294" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="297" y="57" width="5" height="5" rx="1.25" fill="#8E9089"><title>4 g on Feb 23, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="294" y="68" width="11" height="11" rx="2"/>
+<rect class="f hi" x="296" y="70" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>56 g on Feb 24, 2026 · Planter</title></rect>
+<rect class="c l0" x="294" y="82" width="11" height="11" rx="2"/>
+<rect class="f hi" x="295" y="83" width="9" height="9" rx="1.75" fill="#F4EE2A"><title>65 g on Feb 25, 2026 · Shadow pumpkin, Spool holder, Keychain</title></rect>
+<rect class="c l0" x="294" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="296" y="98" width="7" height="7" rx="1.5" fill="#00AE42"><title>46 g on Feb 26, 2026 · Desk calendar, Shadow pumpkin</title></rect>
+<rect class="c l0" x="294" y="110" width="11" height="11" rx="2"/>
+<rect class="f hi" x="294" y="110" width="11" height="11" rx="2" fill="#F4EE2A"><title>171 g on Feb 27, 2026 · Calibration cube, Cable clip</title></rect>
+<rect class="c l0" x="294" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="294" y="124" width="11" height="11" rx="2" fill="#0A2989"><title>137 g on Feb 28, 2026 · Planter, Calibration cube</title></rect>
+<text x="308" y="34">Mar</text>
+<rect class="c l0" x="308" y="40" width="11" height="11" rx="2"/>
+<rect class="f hi" x="308" y="40" width="11" height="11" rx="2" fill="#FFFFFF"><title>128 g on Mar 1, 2026 · Cable clip · 1 failed</title></rect>
+<rect class="c l0" x="308" y="54" width="11" height="11" rx="2"/>
+<rect class="f hi" x="309" y="55" width="9" height="9" rx="1.75" fill="#F4EE2A"><title>65 g on Mar 2, 2026 · Keychain</title></rect>
+<rect class="c l0" x="308" y="68" width="11" height="11" rx="2"/>
+<rect class="f hi" x="310" y="70" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>39 g on Mar 3, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="308" y="82" width="11" height="11" rx="2"/>
+<rect class="f lo" x="308" y="82" width="11" height="11" rx="2" fill="#000000"><title>192 g on Mar 4, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="308" y="96" width="11" height="11" rx="2"><title>0 g on Mar 5, 2026</title></rect>
+<rect class="c l0" x="308" y="110" width="11" height="11" rx="2"><title>0 g on Mar 6, 2026</title></rect>
+<rect class="c l0" x="308" y="124" width="11" height="11" rx="2"/>
+<rect class="f lo" x="310" y="126" width="7" height="7" rx="1.5" fill="#000000"><title>29 g on Mar 7, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="322" y="40" width="11" height="11" rx="2"><title>0 g on Mar 8, 2026</title></rect>
+<rect class="c l0" x="322" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="325" y="57" width="5" height="5" rx="1.25" fill="#C12E1F"><title>23 g on Mar 9, 2026 · Planter, Cable clip</title></rect>
+<rect class="c l0" x="322" y="68" width="11" height="11" rx="2"><title>0 g on Mar 10, 2026</title></rect>
+<rect class="c l0" x="322" y="82" width="11" height="11" rx="2"><title>0 g on Mar 11, 2026</title></rect>
+<rect class="c l0" x="322" y="96" width="11" height="11" rx="2"><title>0 g on Mar 12, 2026</title></rect>
+<rect class="c l0" x="322" y="110" width="11" height="11" rx="2"/>
+<rect class="f hi" x="324" y="112" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>30 g on Mar 13, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="322" y="124" width="11" height="11" rx="2"><title>0 g on Mar 14, 2026</title></rect>
+<rect class="c l0" x="336" y="40" width="11" height="11" rx="2"><title>0 g on Mar 15, 2026</title></rect>
+<rect class="c l0" x="336" y="54" width="11" height="11" rx="2"><title>0 g on Mar 16, 2026</title></rect>
+<rect class="c l0" x="336" y="68" width="11" height="11" rx="2"><title>0 g on Mar 17, 2026</title></rect>
+<rect class="c l0" x="336" y="82" width="11" height="11" rx="2"><title>0 g on Mar 18, 2026</title></rect>
+<rect class="c l0" x="336" y="96" width="11" height="11" rx="2"><title>0 g on Mar 19, 2026</title></rect>
+<rect class="c l0" x="336" y="110" width="11" height="11" rx="2"><title>0 g on Mar 20, 2026</title></rect>
+<rect class="c l0" x="336" y="124" width="11" height="11" rx="2"><title>0 g on Mar 21, 2026</title></rect>
+<rect class="c l0" x="350" y="40" width="11" height="11" rx="2"/>
+<rect class="f lo" x="352" y="42" width="7" height="7" rx="1.5" fill="#000000"><title>26 g on Mar 22, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="350" y="54" width="11" height="11" rx="2"><title>0 g on Mar 23, 2026</title></rect>
+<rect class="c l0" x="350" y="68" width="11" height="11" rx="2"><title>0 g on Mar 24, 2026</title></rect>
+<rect class="c l0" x="350" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="351" y="83" width="9" height="9" rx="1.75" fill="#8E9089"><title>68 g on Mar 25, 2026 · Planter, Spool holder</title></rect>
+<rect class="c l0" x="350" y="96" width="11" height="11" rx="2"><title>0 g on Mar 26, 2026</title></rect>
+<rect class="c l0" x="350" y="110" width="11" height="11" rx="2"><title>0 g on Mar 27, 2026</title></rect>
+<rect class="c l0" x="350" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="351" y="125" width="9" height="9" rx="1.75" fill="#FF6A13"><title>87 g on Mar 28, 2026 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="364" y="40" width="11" height="11" rx="2"/>
+<rect class="f lo" x="366" y="42" width="7" height="7" rx="1.5" fill="#000000"><title>39 g on Mar 29, 2026 · Shadow pumpkin, Planter</title></rect>
+<rect class="c l0" x="364" y="54" width="11" height="11" rx="2"><title>0 g on Mar 30, 2026</title></rect>
+<rect class="c l0" x="364" y="68" width="11" height="11" rx="2"><title>0 g on Mar 31, 2026</title></rect>
+<rect class="c l0" x="364" y="82" width="11" height="11" rx="2"><title>0 g on Apr 1, 2026</title></rect>
+<rect class="c l0" x="364" y="96" width="11" height="11" rx="2"><title>0 g on Apr 2, 2026</title></rect>
+<rect class="c l0" x="364" y="110" width="11" height="11" rx="2"><title>0 g on Apr 3, 2026</title></rect>
+<rect class="c l0" x="364" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="364" y="124" width="11" height="11" rx="2" fill="#00AE42"><title>200 g on Apr 4, 2026 · Spool holder, Calibration cube</title></rect>
+<text x="378" y="34">Apr</text>
+<rect class="c l0" x="378" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="381" y="43" width="5" height="5" rx="1.25" fill="#C12E1F"><title>17 g on Apr 5, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="378" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="381" y="57" width="5" height="5" rx="1.25" fill="#8E9089"><title>16 g on Apr 6, 2026 · Spool holder, Cable clip</title></rect>
+<rect class="c l0" x="378" y="68" width="11" height="11" rx="2"><title>0 g on Apr 7, 2026</title></rect>
+<rect class="c l0" x="378" y="82" width="11" height="11" rx="2"><title>0 g on Apr 8, 2026</title></rect>
+<rect class="c l0" x="378" y="96" width="11" height="11" rx="2"><title>0 g on Apr 9, 2026</title></rect>
+<rect class="c l0" x="378" y="110" width="11" height="11" rx="2"/>
+<rect class="f" x="380" y="112" width="7" height="7" rx="1.5" fill="#8E9089"><title>35 g on Apr 10, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="378" y="124" width="11" height="11" rx="2"><title>0 g on Apr 11, 2026</title></rect>
+<rect class="c l0" x="392" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="393" y="41" width="9" height="9" rx="1.75" fill="#00AE42"><title>122 g on Apr 12, 2026 · Spool holder · 1 failed</title></rect>
+<rect class="c l0" x="392" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="395" y="57" width="5" height="5" rx="1.25" fill="#C12E1F"><title>18 g on Apr 13, 2026 · Cable clip, Keychain, Spool holder</title></rect>
+<rect class="c l0" x="392" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="395" y="71" width="5" height="5" rx="1.25" fill="#C12E1F"><title>9 g on Apr 14, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="392" y="82" width="11" height="11" rx="2"><title>0 g on Apr 15, 2026</title></rect>
+<rect class="c l0" x="392" y="96" width="11" height="11" rx="2"><title>0 g on Apr 16, 2026</title></rect>
+<rect class="c l0" x="392" y="110" width="11" height="11" rx="2"><title>0 g on Apr 17, 2026</title></rect>
+<rect class="c l0" x="392" y="124" width="11" height="11" rx="2"/>
+<rect class="f hi" x="395" y="127" width="5" height="5" rx="1.25" fill="#FFFFFF"><title>17 g on Apr 18, 2026 · Calibration cube, Cable clip</title></rect>
+<rect class="c l0" x="406" y="40" width="11" height="11" rx="2"><title>0 g on Apr 19, 2026</title></rect>
+<rect class="c l0" x="406" y="54" width="11" height="11" rx="2"><title>0 g on Apr 20, 2026</title></rect>
+<rect class="c l0" x="406" y="68" width="11" height="11" rx="2"><title>0 g on Apr 21, 2026</title></rect>
+<rect class="c l0" x="406" y="82" width="11" height="11" rx="2"><title>0 g on Apr 22, 2026</title></rect>
+<rect class="c l0" x="406" y="96" width="11" height="11" rx="2"><title>0 g on Apr 23, 2026</title></rect>
+<rect class="c l0" x="406" y="110" width="11" height="11" rx="2"><title>0 g on Apr 24, 2026</title></rect>
+<rect class="c l0" x="406" y="124" width="11" height="11" rx="2"/>
+<rect class="f hi" x="406" y="124" width="11" height="11" rx="2" fill="#F4EE2A"><title>136 g on Apr 25, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="420" y="40" width="11" height="11" rx="2"><title>0 g on Apr 26, 2026</title></rect>
+<rect class="c l0" x="420" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="420" y="54" width="11" height="11" rx="2" fill="#0A2989"><title>263 g on Apr 27, 2026 · Desk calendar, Cable clip</title></rect>
+<rect class="c l0" x="420" y="68" width="11" height="11" rx="2"><title>0 g on Apr 28, 2026</title></rect>
+<rect class="c l0" x="420" y="82" width="11" height="11" rx="2"><title>0 g on Apr 29, 2026</title></rect>
+<rect class="c l0" x="420" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="423" y="99" width="5" height="5" rx="1.25" fill="#00AE42"><title>7 g on Apr 30, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="420" y="110" width="11" height="11" rx="2"/>
+<rect class="f" x="422" y="112" width="7" height="7" rx="1.5" fill="#FF6A13"><title>33 g on May 1, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="420" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="423" y="127" width="5" height="5" rx="1.25" fill="#8E9089"><title>7 g on May 2, 2026 · Shadow pumpkin</title></rect>
+<text x="434" y="34">May</text>
+<rect class="c l0" x="434" y="40" width="11" height="11" rx="2"/>
+<rect class="f lo" x="435" y="41" width="9" height="9" rx="1.75" fill="#000000"><title>81 g on May 3, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="434" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="435" y="55" width="9" height="9" rx="1.75" fill="#FF6A13"><title>77 g on May 4, 2026 · Desk calendar, Planter, Shadow pumpkin</title></rect>
+<rect class="c l0" x="434" y="68" width="11" height="11" rx="2"><title>0 g on May 5, 2026</title></rect>
+<rect class="c l0" x="434" y="82" width="11" height="11" rx="2"><title>0 g on May 6, 2026</title></rect>
+<rect class="c l0" x="434" y="96" width="11" height="11" rx="2"><title>0 g on May 7, 2026</title></rect>
+<rect class="c l0" x="434" y="110" width="11" height="11" rx="2"><title>0 g on May 8, 2026</title></rect>
+<rect class="c l0" x="434" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="434" y="124" width="11" height="11" rx="2" fill="#0A2989"><title>126 g on May 9, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="448" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="448" y="40" width="11" height="11" rx="2" fill="#0A2989"><title>188 g on May 10, 2026 · Planter</title></rect>
+<rect class="c l0" x="448" y="54" width="11" height="11" rx="2"/>
+<rect class="f hi" x="451" y="57" width="5" height="5" rx="1.25" fill="#F4EE2A"><title>18 g on May 11, 2026 · Planter, Desk calendar</title></rect>
+<rect class="c l0" x="448" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="451" y="71" width="5" height="5" rx="1.25" fill="#00AE42"><title>7 g on May 12, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="448" y="82" width="11" height="11" rx="2"><title>0 g on May 13, 2026</title></rect>
+<rect class="c l0" x="448" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="448" y="96" width="11" height="11" rx="2" fill="#00AE42"><title>249 g on May 14, 2026 · Cable clip, Spool holder</title></rect>
+<rect class="c l0" x="448" y="110" width="11" height="11" rx="2"><title>0 g on May 15, 2026</title></rect>
+<rect class="c l0" x="448" y="124" width="11" height="11" rx="2"><title>0 g on May 16, 2026</title></rect>
+<rect class="c l0" x="462" y="40" width="11" height="11" rx="2"/>
+<rect class="f hi" x="465" y="43" width="5" height="5" rx="1.25" fill="#FFFFFF"><title>23 g on May 17, 2026 · Keychain</title></rect>
+<rect class="c l0" x="462" y="54" width="11" height="11" rx="2"><title>0 g on May 18, 2026</title></rect>
+<rect class="c l0" x="462" y="68" width="11" height="11" rx="2"><title>0 g on May 19, 2026</title></rect>
+<rect class="c l0" x="462" y="82" width="11" height="11" rx="2"><title>0 g on May 20, 2026</title></rect>
+<rect class="c l0" x="462" y="96" width="11" height="11" rx="2"><title>0 g on May 21, 2026</title></rect>
+<rect class="c l0" x="462" y="110" width="11" height="11" rx="2"><title>0 g on May 22, 2026</title></rect>
+<rect class="c l0" x="462" y="124" width="11" height="11" rx="2"/>
+<rect class="f hi" x="462" y="124" width="11" height="11" rx="2" fill="#FFFFFF"><title>242 g on May 23, 2026 · Planter, Cable clip</title></rect>
+<rect class="c l0" x="476" y="40" width="11" height="11" rx="2"/>
+<rect class="f hi" x="476" y="40" width="11" height="11" rx="2" fill="#FFFFFF"><title>160 g on May 24, 2026 · Planter, Shadow pumpkin</title></rect>
+<rect class="c l0" x="476" y="54" width="11" height="11" rx="2"><title>0 g on May 25, 2026</title></rect>
+<rect class="c l0" x="476" y="68" width="11" height="11" rx="2"/>
+<rect class="f lo" x="479" y="71" width="5" height="5" rx="1.25" fill="#000000"><title>6 g on May 26, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="476" y="82" width="11" height="11" rx="2"><title>0 g on May 27, 2026</title></rect>
+<rect class="c l0" x="476" y="96" width="11" height="11" rx="2"><title>0 g on May 28, 2026</title></rect>
+<rect class="c l0" x="476" y="110" width="11" height="11" rx="2"><title>0 g on May 29, 2026</title></rect>
+<rect class="c l0" x="476" y="124" width="11" height="11" rx="2"><title>0 g on May 30, 2026</title></rect>
+<rect class="c l0" x="490" y="40" width="11" height="11" rx="2"><title>0 g on May 31, 2026</title></rect>
+<rect class="c l0" x="490" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="492" y="56" width="7" height="7" rx="1.5" fill="#00AE42"><title>25 g on Jun 1, 2026 · Shadow pumpkin, Planter</title></rect>
+<rect class="c l0" x="490" y="68" width="11" height="11" rx="2"><title>0 g on Jun 2, 2026</title></rect>
+<rect class="c l0" x="490" y="82" width="11" height="11" rx="2"><title>0 g on Jun 3, 2026</title></rect>
+<rect class="c l0" x="490" y="96" width="11" height="11" rx="2"><title>0 g on Jun 4, 2026</title></rect>
+<rect class="c l0" x="490" y="110" width="11" height="11" rx="2"><title>0 g on Jun 5, 2026</title></rect>
+<rect class="c l0" x="490" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="492" y="126" width="7" height="7" rx="1.5" fill="#C12E1F"><title>45 g on Jun 6, 2026 · Desk calendar, Spool holder</title></rect>
+<text x="504" y="34">Jun</text>
+<rect class="c l0" x="504" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="507" y="43" width="5" height="5" rx="1.25" fill="#8E9089"><title>6 g on Jun 7, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="504" y="54" width="11" height="11" rx="2"><title>0 g on Jun 8, 2026</title></rect>
+<rect class="c l0" x="504" y="68" width="11" height="11" rx="2"><title>0 g on Jun 9, 2026</title></rect>
+<rect class="c l0" x="504" y="82" width="11" height="11" rx="2"><title>0 g on Jun 10, 2026</title></rect>
+<rect class="c l0" x="504" y="96" width="11" height="11" rx="2"><title>0 g on Jun 11, 2026</title></rect>
+<rect class="c l0" x="504" y="110" width="11" height="11" rx="2"><title>0 g on Jun 12, 2026</title></rect>
+<rect class="c l0" x="504" y="124" width="11" height="11" rx="2"/>
+<rect class="f lo" x="506" y="126" width="7" height="7" rx="1.5" fill="#000000"><title>55 g on Jun 13, 2026 · Keychain, Calibration cube</title></rect>
+<rect class="c l0" x="518" y="40" width="11" height="11" rx="2"><title>0 g on Jun 14, 2026</title></rect>
+<rect class="c l0" x="518" y="54" width="11" height="11" rx="2"><title>0 g on Jun 15, 2026</title></rect>
+<rect class="c l0" x="518" y="68" width="11" height="11" rx="2"><title>0 g on Jun 16, 2026 · 1 failed</title></rect>
+<rect class="c l0" x="518" y="82" width="11" height="11" rx="2"/>
+<rect class="f lo" x="521" y="85" width="5" height="5" rx="1.25" fill="#000000"><title>11 g on Jun 17, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="518" y="96" width="11" height="11" rx="2"><title>0 g on Jun 18, 2026</title></rect>
+<rect class="c l0" x="518" y="110" width="11" height="11" rx="2"><title>0 g on Jun 19, 2026</title></rect>
+<rect class="c l0" x="518" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="521" y="127" width="5" height="5" rx="1.25" fill="#FF6A13"><title>15 g on Jun 20, 2026 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="532" y="40" width="11" height="11" rx="2"><title>0 g on Jun 21, 2026</title></rect>
+<rect class="c l0" x="532" y="54" width="11" height="11" rx="2"><title>0 g on Jun 22, 2026</title></rect>
+<rect class="c l0" x="532" y="68" width="11" height="11" rx="2"><title>0 g on Jun 23, 2026</title></rect>
+<rect class="c l0" x="532" y="82" width="11" height="11" rx="2"><title>0 g on Jun 24, 2026</title></rect>
+<rect class="c l0" x="532" y="96" width="11" height="11" rx="2"><title>0 g on Jun 25, 2026</title></rect>
+<rect class="c l0" x="532" y="110" width="11" height="11" rx="2"/>
+<rect class="f lo" x="533" y="111" width="9" height="9" rx="1.75" fill="#000000"><title>85 g on Jun 26, 2026 · Planter, Cable clip</title></rect>
+<rect class="c l0" x="532" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="534" y="126" width="7" height="7" rx="1.5" fill="#FF6A13"><title>28 g on Jun 27, 2026 · Planter</title></rect>
+<rect class="c l0" x="546" y="40" width="11" height="11" rx="2"><title>0 g on Jun 28, 2026</title></rect>
+<rect class="c l0" x="546" y="54" width="11" height="11" rx="2"><title>0 g on Jun 29, 2026</title></rect>
+<rect class="c l0" x="546" y="68" width="11" height="11" rx="2"/>
+<rect class="f lo" x="547" y="69" width="9" height="9" rx="1.75" fill="#000000"><title>58 g on Jun 30, 2026 · Cable clip, Spool holder</title></rect>
+<rect class="c l0" x="546" y="82" width="11" height="11" rx="2"/>
+<rect class="f hi" x="549" y="85" width="5" height="5" rx="1.25" fill="#F4EE2A"><title>15 g on Jul 1, 2026 · Calibration cube · 1 failed</title></rect>
+<rect class="c l0" x="546" y="96" width="11" height="11" rx="2"><title>0 g on Jul 2, 2026</title></rect>
+<rect class="c l0" x="546" y="110" width="11" height="11" rx="2"/>
+<rect class="f hi" x="546" y="110" width="11" height="11" rx="2" fill="#FFFFFF"><title>188 g on Jul 3, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="546" y="124" width="11" height="11" rx="2"><title>0 g on Jul 4, 2026</title></rect>
+<text x="560" y="34">Jul</text>
+<rect class="c l0" x="560" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="561" y="41" width="9" height="9" rx="1.75" fill="#C12E1F"><title>103 g on Jul 5, 2026 · Calibration cube, Shadow pumpkin</title></rect>
+<rect class="c l0" x="560" y="54" width="11" height="11" rx="2"><title>0 g on Jul 6, 2026</title></rect>
+<rect class="c l0" x="560" y="68" width="11" height="11" rx="2"/>
+<rect class="f hi" x="562" y="70" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>54 g on Jul 7, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="560" y="82" width="11" height="11" rx="2"><title>0 g on Jul 8, 2026</title></rect>
+<rect class="c l0" x="560" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="563" y="99" width="5" height="5" rx="1.25" fill="#0A2989"><title>12 g on Jul 9, 2026 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="560" y="110" width="11" height="11" rx="2"/>
+<rect class="f" x="561" y="111" width="9" height="9" rx="1.75" fill="#0A2989"><title>95 g on Jul 10, 2026 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="560" y="124" width="11" height="11" rx="2"/>
+<rect class="f hi" x="561" y="125" width="9" height="9" rx="1.75" fill="#FFFFFF"><title>109 g on Jul 11, 2026 · Cable clip, Desk calendar</title></rect>
+<rect class="c l0" x="574" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="575" y="41" width="9" height="9" rx="1.75" fill="#0A2989"><title>86 g on Jul 12, 2026 · Spool holder, Desk calendar</title></rect>
+<rect class="c l0" x="574" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="577" y="57" width="5" height="5" rx="1.25" fill="#0A2989"><title>6 g on Jul 13, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="574" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="577" y="71" width="5" height="5" rx="1.25" fill="#8E9089"><title>8 g on Jul 14, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="574" y="82" width="11" height="11" rx="2"><title>0 g on Jul 15, 2026</title></rect>
+<rect class="c l0" x="574" y="96" width="11" height="11" rx="2"><title>0 g on Jul 16, 2026</title></rect>
+<rect class="c l0" x="574" y="110" width="11" height="11" rx="2"/>
+<rect class="f lo" x="574" y="110" width="11" height="11" rx="2" fill="#000000"><title>150 g on Jul 17, 2026 · Planter</title></rect>
+<rect class="c l0" x="574" y="124" width="11" height="11" rx="2"/>
+<rect class="f hi" x="575" y="125" width="9" height="9" rx="1.75" fill="#FFFFFF"><title>114 g on Jul 18, 2026 · Cable clip, Spool holder, Calibration cube · 1 failed</title></rect>
+<rect class="c l0" x="588" y="40" width="11" height="11" rx="2"><title>0 g on Jul 19, 2026</title></rect>
+<rect class="c l0" x="588" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="591" y="57" width="5" height="5" rx="1.25" fill="#FF6A13"><title>13 g on Jul 20, 2026 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="588" y="68" width="11" height="11" rx="2"><title>0 g on Jul 21, 2026</title></rect>
+<rect class="c l0" x="588" y="82" width="11" height="11" rx="2"><title>0 g on Jul 22, 2026</title></rect>
+<rect class="c l0" x="588" y="96" width="11" height="11" rx="2"><title>0 g on Jul 23, 2026</title></rect>
+<rect class="c l0" x="588" y="110" width="11" height="11" rx="2"><title>0 g on Jul 24, 2026</title></rect>
+<rect class="c l0" x="588" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="589" y="125" width="9" height="9" rx="1.75" fill="#8E9089"><title>102 g on Jul 25, 2026 · Shadow pumpkin, Keychain</title></rect>
+<rect class="c l0" x="602" y="40" width="11" height="11" rx="2"><title>0 g on Jul 26, 2026</title></rect>
+<rect class="c l0" x="602" y="54" width="11" height="11" rx="2"><title>0 g on Jul 27, 2026</title></rect>
+<rect class="c l0" x="602" y="68" width="11" height="11" rx="2"><title>0 g on Jul 28, 2026</title></rect>
+<rect class="c l0" x="602" y="82" width="11" height="11" rx="2"><title>0 g on Jul 29, 2026</title></rect>
+<rect class="c l0" x="602" y="96" width="11" height="11" rx="2"><title>0 g on Jul 30, 2026</title></rect>
+<rect class="c l0" x="602" y="110" width="11" height="11" rx="2"><title>0 g on Jul 31, 2026</title></rect>
+<rect class="c l0" x="602" y="124" width="11" height="11" rx="2"><title>0 g on Aug 1, 2026</title></rect>
+<text x="616" y="34">Aug</text>
+<rect class="c l0" x="616" y="40" width="11" height="11" rx="2"><title>0 g on Aug 2, 2026</title></rect>
+<rect class="c l0" x="616" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="619" y="57" width="5" height="5" rx="1.25" fill="#0A2989"><title>12 g on Aug 3, 2026 · Spool holder · 1 failed</title></rect>
+<rect class="c l0" x="616" y="68" width="11" height="11" rx="2"><title>0 g on Aug 4, 2026</title></rect>
+<rect class="c l0" x="616" y="82" width="11" height="11" rx="2"><title>0 g on Aug 5, 2026</title></rect>
+<rect class="c l0" x="616" y="96" width="11" height="11" rx="2"/>
+<rect class="f hi" x="618" y="98" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>54 g on Aug 6, 2026 · Planter, Keychain</title></rect>
+<rect class="c l0" x="616" y="110" width="11" height="11" rx="2"><title>0 g on Aug 7, 2026</title></rect>
+<rect class="c l0" x="616" y="124" width="11" height="11" rx="2"><title>0 g on Aug 8, 2026</title></rect>
+<rect class="c l0" x="630" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="633" y="43" width="5" height="5" rx="1.25" fill="#0A2989"><title>6 g on Aug 9, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="630" y="54" width="11" height="11" rx="2"><title>0 g on Aug 10, 2026</title></rect>
+<rect class="c l0" x="630" y="68" width="11" height="11" rx="2"><title>0 g on Aug 11, 2026</title></rect>
+<rect class="c l0" x="630" y="82" width="11" height="11" rx="2"><title>0 g on Aug 12, 2026</title></rect>
+<rect class="c l0" x="630" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="632" y="98" width="7" height="7" rx="1.5" fill="#8E9089"><title>27 g on Aug 13, 2026 · Calibration cube, Spool holder</title></rect>
+<rect class="c l0" x="630" y="110" width="11" height="11" rx="2"/>
+<rect class="f lo" x="630" y="110" width="11" height="11" rx="2" fill="#000000"><title>231 g on Aug 14, 2026 · Keychain, Cable clip</title></rect>
+<rect class="c l0" x="630" y="124" width="11" height="11" rx="2"/>
+<rect class="f lo" x="630" y="124" width="11" height="11" rx="2" fill="#000000"><title>210 g on Aug 15, 2026 · Spool holder, Cable clip</title></rect>
+<rect class="c l0" x="644" y="40" width="11" height="11" rx="2"/>
+<rect class="f lo" x="644" y="40" width="11" height="11" rx="2" fill="#000000"><title>138 g on Aug 16, 2026 · Cable clip, Keychain</title></rect>
+<rect class="c l0" x="644" y="54" width="11" height="11" rx="2"/>
+<rect class="f hi" x="645" y="55" width="9" height="9" rx="1.75" fill="#F4EE2A"><title>86 g on Aug 17, 2026 · Cable clip, Planter</title></rect>
+<rect class="c l0" x="644" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="647" y="71" width="5" height="5" rx="1.25" fill="#C12E1F"><title>7 g on Aug 18, 2026 · Shadow pumpkin · 1 failed</title></rect>
+<rect class="c l0" x="644" y="82" width="11" height="11" rx="2"><title>0 g on Aug 19, 2026</title></rect>
+<rect class="c l0" x="644" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="645" y="97" width="9" height="9" rx="1.75" fill="#0A2989"><title>97 g on Aug 20, 2026 · Calibration cube, Keychain · 1 failed</title></rect>
+<rect class="c l0" x="644" y="110" width="11" height="11" rx="2"/>
+<rect class="f" x="644" y="110" width="11" height="11" rx="2" fill="#C12E1F"><title>233 g on Aug 21, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="644" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="647" y="127" width="5" height="5" rx="1.25" fill="#FF6A13"><title>15 g on Aug 22, 2026 · Planter</title></rect>
+<rect class="c l0" x="658" y="40" width="11" height="11" rx="2"><title>0 g on Aug 23, 2026</title></rect>
+<rect class="c l0" x="658" y="54" width="11" height="11" rx="2"><title>0 g on Aug 24, 2026</title></rect>
+<rect class="c l0" x="658" y="68" width="11" height="11" rx="2"><title>0 g on Aug 25, 2026</title></rect>
+<rect class="c l0" x="658" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="660" y="84" width="7" height="7" rx="1.5" fill="#00AE42"><title>48 g on Aug 26, 2026 · Desk calendar, Calibration cube</title></rect>
+<rect class="c l0" x="658" y="96" width="11" height="11" rx="2"><title>0 g on Aug 27, 2026</title></rect>
+<rect class="c l0" x="658" y="110" width="11" height="11" rx="2"><title>0 g on Aug 28, 2026</title></rect>
+<rect class="c l0" x="658" y="124" width="11" height="11" rx="2"/>
+<rect class="f lo" x="660" y="126" width="7" height="7" rx="1.5" fill="#000000"><title>43 g on Aug 29, 2026 · Planter, Spool holder</title></rect>
+<rect class="c l0" x="672" y="40" width="11" height="11" rx="2"><title>0 g on Aug 30, 2026</title></rect>
+<rect class="c l0" x="672" y="54" width="11" height="11" rx="2"><title>0 g on Aug 31, 2026</title></rect>
+<rect class="c l0" x="672" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="673" y="69" width="9" height="9" rx="1.75" fill="#FF6A13"><title>107 g on Sep 1, 2026 · Keychain, Spool holder</title></rect>
+<rect class="c l0" x="672" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="672" y="82" width="11" height="11" rx="2" fill="#C12E1F"><title>127 g on Sep 2, 2026 · Planter</title></rect>
+<rect class="c l0" x="672" y="96" width="11" height="11" rx="2"><title>0 g on Sep 3, 2026</title></rect>
+<rect class="c l0" x="672" y="110" width="11" height="11" rx="2"/>
+<rect class="f" x="672" y="110" width="11" height="11" rx="2" fill="#00AE42"><title>157 g on Sep 4, 2026 · Shadow pumpkin</title></rect>
+<rect class="c l0" x="672" y="124" width="11" height="11" rx="2"/>
+<rect class="f lo" x="672" y="124" width="11" height="11" rx="2" fill="#000000"><title>132 g on Sep 5, 2026 · Planter</title></rect>
+<text x="686" y="34">Sep</text>
+<rect class="c l0" x="686" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="688" y="42" width="7" height="7" rx="1.5" fill="#FF6A13"><title>38 g on Sep 6, 2026 · Keychain</title></rect>
+<rect class="c l0" x="686" y="54" width="11" height="11" rx="2"/>
+<rect class="f hi" x="687" y="55" width="9" height="9" rx="1.75" fill="#FFFFFF"><title>122 g on Sep 7, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="686" y="68" width="11" height="11" rx="2"><title>0 g on Sep 8, 2026</title></rect>
+<rect class="c l0" x="686" y="82" width="11" height="11" rx="2"><title>0 g on Sep 9, 2026</title></rect>
+<rect class="c l0" x="686" y="96" width="11" height="11" rx="2"><title>0 g on Sep 10, 2026</title></rect>
+<rect class="c l0" x="686" y="110" width="11" height="11" rx="2"/>
+<rect class="f hi" x="688" y="112" width="7" height="7" rx="1.5" fill="#FFFFFF"><title>36 g on Sep 11, 2026 · Shadow pumpkin, Calibration cube</title></rect>
+<rect class="c l0" x="686" y="124" width="11" height="11" rx="2"><title>0 g on Sep 12, 2026</title></rect>
+<rect class="c l0" x="700" y="40" width="11" height="11" rx="2"><title>0 g on Sep 13, 2026</title></rect>
+<rect class="c l0" x="700" y="54" width="11" height="11" rx="2"><title>0 g on Sep 14, 2026</title></rect>
+<rect class="c l0" x="700" y="68" width="11" height="11" rx="2"><title>0 g on Sep 15, 2026</title></rect>
+<rect class="c l0" x="700" y="82" width="11" height="11" rx="2"><title>0 g on Sep 16, 2026</title></rect>
+<rect class="c l0" x="700" y="96" width="11" height="11" rx="2"/>
+<rect class="f" x="701" y="97" width="9" height="9" rx="1.75" fill="#C12E1F"><title>125 g on Sep 17, 2026 · Spool holder, Keychain, Planter</title></rect>
+<rect class="c l0" x="700" y="110" width="11" height="11" rx="2"><title>0 g on Sep 18, 2026</title></rect>
+<rect class="c l0" x="700" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="701" y="125" width="9" height="9" rx="1.75" fill="#8E9089"><title>63 g on Sep 19, 2026 · Calibration cube</title></rect>
+<rect class="c l0" x="714" y="40" width="11" height="11" rx="2"><title>0 g on Sep 20, 2026</title></rect>
+<rect class="c l0" x="714" y="54" width="11" height="11" rx="2"><title>0 g on Sep 21, 2026</title></rect>
+<rect class="c l0" x="714" y="68" width="11" height="11" rx="2"><title>0 g on Sep 22, 2026</title></rect>
+<rect class="c l0" x="714" y="82" width="11" height="11" rx="2"><title>0 g on Sep 23, 2026</title></rect>
+<rect class="c l0" x="714" y="96" width="11" height="11" rx="2"><title>0 g on Sep 24, 2026</title></rect>
+<rect class="c l0" x="714" y="110" width="11" height="11" rx="2"><title>0 g on Sep 25, 2026</title></rect>
+<rect class="c l0" x="714" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="715" y="125" width="9" height="9" rx="1.75" fill="#FF6A13"><title>80 g on Sep 26, 2026 · Spool holder, Desk calendar</title></rect>
+<rect class="c l0" x="728" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="730" y="42" width="7" height="7" rx="1.5" fill="#8E9089"><title>35 g on Sep 27, 2026 · Keychain · 1 failed</title></rect>
+<rect class="c l0" x="728" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="728" y="54" width="11" height="11" rx="2" fill="#0A2989"><title>179 g on Sep 28, 2026 · Keychain, Spool holder</title></rect>
+<rect class="c l0" x="728" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="728" y="68" width="11" height="11" rx="2" fill="#FF6A13"><title>235 g on Sep 29, 2026 · Planter, Shadow pumpkin</title></rect>
+<rect class="c l0" x="728" y="82" width="11" height="11" rx="2"/>
+<rect class="f hi" x="730" y="84" width="7" height="7" rx="1.5" fill="#F4EE2A"><title>44 g on Sep 30, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="728" y="96" width="11" height="11" rx="2"><title>0 g on Oct 1, 2026</title></rect>
+<rect class="c l0" x="728" y="110" width="11" height="11" rx="2"/>
+<rect class="f lo" x="730" y="112" width="7" height="7" rx="1.5" fill="#000000"><title>26 g on Oct 2, 2026 · Shadow pumpkin, Desk calendar</title></rect>
+<rect class="c l0" x="728" y="124" width="11" height="11" rx="2"/>
+<rect class="f" x="730" y="126" width="7" height="7" rx="1.5" fill="#8E9089"><title>36 g on Oct 3, 2026 · Calibration cube, Spool holder</title></rect>
+<text x="742" y="34">Oct</text>
+<rect class="c l0" x="742" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="743" y="41" width="9" height="9" rx="1.75" fill="#00AE42"><title>77 g on Oct 4, 2026 · Cable clip</title></rect>
+<rect class="c l0" x="742" y="54" width="11" height="11" rx="2"/>
+<rect class="f" x="744" y="56" width="7" height="7" rx="1.5" fill="#00AE42"><title>35 g on Oct 5, 2026 · Spool holder</title></rect>
+<rect class="c l0" x="742" y="68" width="11" height="11" rx="2"/>
+<rect class="f" x="742" y="68" width="11" height="11" rx="2" fill="#0A2989"><title>145 g on Oct 6, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="742" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="743" y="83" width="9" height="9" rx="1.75" fill="#0A2989"><title>115 g on Oct 7, 2026 · Planter</title></rect>
+<rect class="c l0" x="742" y="96" width="11" height="11" rx="2"><title>0 g on Oct 8, 2026</title></rect>
+<rect class="c l0" x="742" y="110" width="11" height="11" rx="2"><title>0 g on Oct 9, 2026</title></rect>
+<rect class="c l0" x="742" y="124" width="11" height="11" rx="2"><title>0 g on Oct 10, 2026</title></rect>
+<rect class="c l0" x="756" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="758" y="42" width="7" height="7" rx="1.5" fill="#00AE42"><title>46 g on Oct 11, 2026 · Desk calendar</title></rect>
+<rect class="c l0" x="756" y="54" width="11" height="11" rx="2"><title>0 g on Oct 12, 2026</title></rect>
+<rect class="c l0" x="756" y="68" width="11" height="11" rx="2"><title>0 g on Oct 13, 2026</title></rect>
+<rect class="c l0" x="756" y="82" width="11" height="11" rx="2"/>
+<rect class="f" x="759" y="85" width="5" height="5" rx="1.25" fill="#FF6A13"><title>18 g on Oct 14, 2026 · Keychain, Planter</title></rect>
+<rect class="c l0" x="756" y="96" width="11" height="11" rx="2"/>
+<rect class="f lo" x="757" y="97" width="9" height="9" rx="1.75" fill="#000000"><title>59 g on Oct 15, 2026 · Keychain</title></rect>
+<rect class="c l0" x="756" y="110" width="11" height="11" rx="2"><title>0 g on Oct 16, 2026</title></rect>
+<rect class="c l0" x="756" y="124" width="11" height="11" rx="2"><title>0 g on Oct 17, 2026</title></rect>
+<rect class="c l0" x="770" y="40" width="11" height="11" rx="2"/>
+<rect class="f" x="771" y="41" width="9" height="9" rx="1.75" fill="#C12E1F"><title>73 g on Oct 18, 2026 · Shadow pumpkin, Calibration cube · 1 failed</title></rect>
+<text x="626" y="156">Less</text>
+<rect class="c l0" x="654" y="147" width="11" height="11" rx="2"/>
+<rect class="f" x="671" y="150" width="5" height="5" rx="1.25" fill="#8b949e"></rect>
+<rect class="f" x="684" y="149" width="7" height="7" rx="1.5" fill="#8b949e"></rect>
+<rect class="f" x="697" y="148" width="9" height="9" rx="1.75" fill="#8b949e"></rect>
+<rect class="f" x="710" y="147" width="11" height="11" rx="2" fill="#8b949e"></rect>
+<text x="728" y="156">More</text>
+<text x="42" y="156">Current streak 1 d · metric: g</text>
+</svg>

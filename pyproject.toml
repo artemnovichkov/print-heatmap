@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "print-heatmap"
+version = "0.1.0"
+description = "GitHub-style heatmap of your Bambu Lab 3D printing, for a README or a pinned gist"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Artem Novichkov" }]
+requires-python = ">=3.9"
+dependencies = []
+keywords = ["bambu-lab", "3d-printing", "heatmap", "github-action", "readme"]
+
+[project.scripts]
+print-heatmap = "print_heatmap.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/artemnovichkov/print-heatmap"

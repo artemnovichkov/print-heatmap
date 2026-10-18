@@ -1,0 +1,92 @@
+name: Bambu Lab print heatmap
+description: GitHub-style heatmap of your Bambu Lab 3D printing, for a README or a pinned gist
+author: Artem Novichkov
+branding:
+  icon: grid
+  color: orange
+
+inputs:
+  bambu_token:
+    description: Bambu Cloud access token (`print-heatmap login` prints it)
+    required: true
+  metric:
+    description: "hours, grams or prints"
+    default: hours
+  colors:
+    description: "activity (palette shade per day), or filament: each day in the colour of its most used filament"
+    default: activity
+  palette:
+    description: "Activity colours: orange, blue, purple or green"
+    default: orange
+  filament_strip:
+    description: Weekly strip of the most used filament colour under the grid
+    default: "true"
+  timezone:
+    description: IANA time zone for day boundaries, e.g. Europe/Berlin
+    default: UTC
+  titles:
+    description: Keep model names in prints.json and the tooltips
+    default: "true"
+  region:
+    description: "global, or china for bambulab.cn accounts"
+    default: global
+  branch:
+    description: Branch that receives print-heatmap.svg (+ -light, -dark) and prints.json; empty to skip
+    default: print-heatmap
+  gist_id:
+    description: Gist to write the text summary into
+    default: ""
+  gist_token:
+    description: GitHub token with the gist scope (needed with gist_id)
+    default: ""
+  github_token:
+    description: Token that pushes to `branch`
+    default: ${{ github.token }}
+
+runs:
+  using: composite
+  steps:
+    - name: Update heatmap
+      shell: bash
+      env:
+        PYTHONPATH: ${{ github.action_path }}/src
+        BAMBU_TOKEN: ${{ inputs.bambu_token }}
+        GIST_TOKEN: ${{ inputs.gist_token }}
+        GH_TOKEN: ${{ inputs.github_token }}
+        METRIC: ${{ inputs.metric }}
+        COLORS: ${{ inputs.colors }}
+        PALETTE: ${{ inputs.palette }}
+        STRIP: ${{ inputs.filament_strip }}
+        TZ_NAME: ${{ inputs.timezone }}
+        TITLES: ${{ inputs.titles }}
+        REGION: ${{ inputs.region }}
+        BRANCH: ${{ inputs.branch }}
+        GIST_ID: ${{ inputs.gist_id }}
+      run: |
+        set -euo pipefail
+        out="$RUNNER_TEMP/print-heatmap"
+        remote="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        rm -rf "$out"
+        if [ -n "$BRANCH" ] && git ls-remote --exit-code --heads "$remote" "$BRANCH" >/dev/null 2>&1; then
+          git clone --quiet --depth 1 --branch "$BRANCH" "$remote" "$out"
+        else
+          git init --quiet -b "${BRANCH:-print-heatmap}" "$out"
+        fi
+
+        args=(update --archive "$out/prints.json" --svg "$out/print-heatmap.svg"
+              --metric "$METRIC" --colors "$COLORS" --palette "$PALETTE" --timezone "$TZ_NAME" --region "$REGION")
+        [ "$TITLES" = "true" ] || args+=(--no-titles)
+        [ "$STRIP" = "true" ] || args+=(--no-strip)
+        [ -z "$GIST_ID" ] || args+=(--gist "$GIST_ID")
+        python3 -m print_heatmap "${args[@]}"
+
+        [ -n "$BRANCH" ] || exit 0
+        cd "$out"
+        git add -A
+        if git diff --cached --quiet; then
+          echo "No changes"
+          exit 0
+        fi
+        git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+          commit --quiet -m "Update print heatmap"
+        git push --quiet "$remote" "HEAD:$BRANCH"
