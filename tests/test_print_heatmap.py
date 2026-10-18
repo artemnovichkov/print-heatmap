@@ -95,12 +95,30 @@ class RenderTests(unittest.TestCase):
             self.assertIn("of printing in the last year", out)
             self.assertEqual("prefers-color-scheme" in out, theme == "auto")
 
-    def test_text_fits_a_pinned_gist(self):
-        records = demo.records(self.end)
-        out = text.render(stats.aggregate(records, timezone.utc), records, self.end, timezone.utc)
+    def test_months_fit_a_pinned_gist(self):
+        out = text.render(stats.aggregate(demo.records(self.end), timezone.utc), self.end)
         lines = out.splitlines()
-        self.assertEqual(len(lines), 5)
+        self.assertEqual(len(lines), 5)  # a pinned gist shows 5 lines
         self.assertTrue(all(len(line) <= text.WIDTH for line in lines), lines)
+        self.assertEqual(lines[1], "")
+        self.assertEqual([line[:3] for line in lines[2:5]], ["Aug", "Sep", "Oct"])
+        self.assertEqual(len(lines[4].split()[1]), self.end.day)  # one character per day so far
+
+    def test_grid_layout(self):
+        records = demo.records(self.end)
+        out = text.render(stats.aggregate(records, timezone.utc), self.end, layout="grid")
+        lines = out.splitlines()
+        self.assertEqual(len(lines), 9)  # summary, months, 7 weekdays
+        self.assertTrue(all(len(line) <= text.WIDTH for line in lines), lines)
+        self.assertEqual(len(lines[2].split()), text.WEEKS)  # Sunday row: one cell per week
+
+    def test_text_cells_match_svg_levels(self):
+        days = {date(2026, 10, 12): stats.Day(prints=1, hours=5.0), date(2026, 10, 13): stats.Day(prints=1, hours=1.0)}
+        rows = text.render(days, date(2026, 10, 17), layout="grid").splitlines()[2:]
+        th = stats.quartiles(d.hours for d in days.values())
+        self.assertEqual(rows[1].split()[-1], text.SHADES[stats.level(5.0, th)])  # Monday, Oct 12
+        self.assertEqual(rows[2].split()[-1], text.SHADES[stats.level(1.0, th)])  # Tuesday, Oct 13
+        self.assertEqual(rows[3].split()[-1], text.SHADES[0])  # Wednesday, nothing printed
 
     def test_color_name(self):
         self.assertEqual(text.color_name("#FF671F"), "Orange")

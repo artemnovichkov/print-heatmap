@@ -34,5 +34,5 @@ def _call(method, url, token, data=None):
 def update(gist_id, token, title, content):
     url = f"https://api.github.com/gists/{gist_id}"
     files = _call("GET", url, token).get("files") or {}
-    current = next(iter(files), title)
+    current = title if title in files else next(iter(files), title)
     _call("PATCH", url, token, {"files": {current: {"filename": title, "content": content}}})

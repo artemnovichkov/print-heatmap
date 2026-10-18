@@ -92,7 +92,7 @@ def cmd_update(args):
         root, ext = os.path.splitext(args.svg)
         for theme, path in (("auto", args.svg), ("light", f"{root}-light{ext}"), ("dark", f"{root}-dark{ext}")):
             write(path, svg.render(days, end, args.metric, args.colors, theme, strip=args.strip, palette=args.palette))
-    summary = text.render(days, records, end, tz)
+    summary = text.render(days, end, args.metric, args.gist_layout)
     if args.text:
         write(args.text, summary)
     if args.gist:
@@ -130,6 +130,8 @@ def main(argv=None):
     up.add_argument("--text", help="text summary path")
     up.add_argument("--gist", metavar="ID", help="write the text summary into this gist (needs GIST_TOKEN)")
     up.add_argument("--gist-title", default=text.TITLE)
+    up.add_argument("--gist-layout", choices=text.LAYOUTS, default="months",
+                    help="months: 5 lines, fits a pinned gist (default); grid: weekday x week, 9 lines")
     up.add_argument("--metric", choices=stats.METRICS, default="hours")
     up.add_argument("--colors", choices=["activity", "filament"], default="activity",
                     help="activity: palette shade per day; filament: each day in its main filament colour")

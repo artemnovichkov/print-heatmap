@@ -42,6 +42,21 @@ def aggregate(records, tz):
     return days
 
 
+def quartiles(values):
+    """Level thresholds: quartiles of the non-zero values, like GitHub's contribution graph."""
+    vals = sorted(v for v in values if v > 0)
+    if not vals:
+        return [1, 2, 3]
+    return [vals[int(len(vals) * q)] for q in (0.25, 0.5, 0.75)]
+
+
+def level(v, thresholds):
+    """0 for nothing, 1-4 by quartile."""
+    if v <= 0:
+        return 0
+    return 1 + sum(v > t for t in thresholds)
+
+
 def year_start(end):
     """First day of the 53-week grid that ends with `end`; weeks start on Sunday like GitHub."""
     return end - timedelta(days=(end.weekday() + 1) % 7) - timedelta(weeks=52)
@@ -58,12 +73,3 @@ def streaks(days, start, end):
         d += timedelta(days=1)
     return longest, run or before_today
 
-
-def filament_totals(records, start, end, tz):
-    """[(colour, type, grams)] for finished prints between the dates, most used first."""
-    totals = defaultdict(float)
-    for r in records:
-        if r["status"] == "finished" and start <= parse_time(r["start"]).astimezone(tz).date() <= end:
-            for f in r["filaments"]:
-                totals[(f["color"], f["type"])] += f["grams"]
-    return sorted(((c, t, g) for (c, t), g in totals.items()), key=lambda x: -x[2])

@@ -10,14 +10,28 @@ With `colors: filament`, each day takes the colour of the filament it used most,
 
 ![Demo heatmap in filament colours](examples/demo-filament.svg)
 
-For a pinned gist, it writes a text summary:
+For a pinned gist, it writes a text heatmap of the last 3 months, a row per month and a character per day, with the same levels as the SVG. A pinned gist shows only 5 lines, and this fits:
 
 ```
 227 prints · 905 h · 11.4 kg · streak 12 d
-Weekly ▕▃▅▅▄▅▁▁▁▁▂▅▅▄▂·▁█▆▂▇▃▂▂█▅▃▏ peak 51 h
-White PLA       ██████████████  1.9 kg  17%
-Blue PLA        ████████████░░  1.7 kg  15%
-Orange PLA      ███████████░░░  1.5 kg  13%
+
+Aug ··░··▒··░···▒███▓░·▓█░···▒··▒··  100 h
+Sep ▓▓·██▒▓···▒·····▓·▓······▓▒██▒   106 h
+Oct ·▒▒▓▒█▓···▒··░▒··▓                53 h
+```
+
+With `gist_layout: grid`, it draws the last 13 weeks like the SVG instead. It takes 9 lines, so a pinned card cuts it off, but it reads well in the gist itself:
+
+```
+227 prints · 905 h · 11.4 kg · streak 12 d
+       Aug            Sep         Oct
+    ·· ·· ░░ ██ ·· ·· ▒▒ ·· ·· ▒▒ ▓▓ ▒▒ ▓▓
+Mon ·· ░░ ·· ▓▓ ·· ·· ▓▓ ·· ·· ██ ▒▒ ··
+    ·· ·· ·· ░░ ·· ▓▓ ·· ·· ·· ██ ██ ··
+Wed ·· ·· ·· ·· ▒▒ ▓▓ ·· ·· ·· ▒▒ ▓▓ ░░
+    ·· ▒▒ ▒▒ ▓▓ ·· ·· ·· ▓▓ ·· ·· ·· ▒▒
+Fri ·· ·· ██ ██ ·· ██ ▒▒ ·· ·· ▒▒ ·· ··
+    ·· ·· ██ ░░ ▒▒ ██ ·· ▓▓ ▓▓ ▒▒ ·· ··
 ```
 
 ## Setup
@@ -109,6 +123,7 @@ Start it once from the Actions tab. It commits `print-heatmap.svg`, its `-light`
 | `region` | `global` | `china` for bambulab.cn accounts |
 | `branch` | `print-heatmap` | Branch for the SVGs and `prints.json`; empty to skip committing |
 | `gist_id` | | Gist to write the text summary into |
+| `gist_layout` | `months` | `months` (5 lines, fits a pinned gist) or `grid` (weekday × week, 9 lines) |
 | `gist_token` | | Token with the gist scope |
 
 ## Command line

@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import timedelta
 
-from .stats import Day, streaks, year_start
+from .stats import Day, level, quartiles, streaks, year_start
 from .text import color_name
 
 CELL, GAP = 11, 3
@@ -51,19 +51,6 @@ def style(theme, palette):
     if theme == "auto":
         return base + rules("light") + "@media (prefers-color-scheme: dark){" + rules("dark") + "}"
     return base + rules(theme)
-
-
-def level(v, thresholds):
-    if v <= 0:
-        return 0
-    return 1 + sum(v > t for t in thresholds)
-
-
-def quartiles(values):
-    vals = sorted(v for v in values if v > 0)
-    if not vals:
-        return [1, 2, 3]
-    return [vals[int(len(vals) * q)] for q in (0.25, 0.5, 0.75)]
 
 
 def fmt(v, metric):
