@@ -20,20 +20,6 @@ Sep ▓▓·██▒▓···▒·····▓·▓······▓▒██▒  
 Oct ·▒▒▓▒█▓···▒··░▒··▓                53 h
 ```
 
-With `gist_layout: grid`, it draws the last 13 weeks like the SVG instead. It takes 9 lines, so a pinned card cuts it off, but it reads well in the gist itself:
-
-```
-227 prints · 905 h · 11.4 kg · streak 12 d
-       Aug            Sep         Oct
-    ·· ·· ░░ ██ ·· ·· ▒▒ ·· ·· ▒▒ ▓▓ ▒▒ ▓▓
-Mon ·· ░░ ·· ▓▓ ·· ·· ▓▓ ·· ·· ██ ▒▒ ··
-    ·· ·· ·· ░░ ·· ▓▓ ·· ·· ·· ██ ██ ··
-Wed ·· ·· ·· ·· ▒▒ ▓▓ ·· ·· ·· ▒▒ ▓▓ ░░
-    ·· ▒▒ ▒▒ ▓▓ ·· ·· ·· ▓▓ ·· ·· ·· ▒▒
-Fri ·· ·· ██ ██ ·· ██ ▒▒ ·· ·· ▒▒ ·· ··
-    ·· ·· ██ ░░ ▒▒ ██ ·· ▓▓ ▓▓ ▒▒ ·· ··
-```
-
 ## Setup
 
 ### 1. Get a Bambu token and store it as a secret
@@ -123,7 +109,6 @@ Start it once from the Actions tab. It commits `print-heatmap.svg`, its `-light`
 | `region` | `global` | `china` for bambulab.cn accounts |
 | `branch` | `print-heatmap` | Branch for the SVGs and `prints.json`; empty to skip committing |
 | `gist_id` | | Gist to write the text summary into |
-| `gist_layout` | `months` | `months` (5 lines, fits a pinned gist) or `grid` (weekday × week, 9 lines) |
 | `gist_token` | | Token with the gist scope |
 
 ## Command line

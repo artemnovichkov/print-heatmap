@@ -36,9 +36,6 @@ inputs:
   gist_id:
     description: Gist to write the text summary into
     default: ""
-  gist_layout:
-    description: "months (5 lines, fits a pinned gist) or grid (weekday x week, 9 lines)"
-    default: months
   gist_token:
     description: GitHub token with the gist scope (needed with gist_id)
     default: ""
@@ -65,7 +62,6 @@ runs:
         REGION: ${{ inputs.region }}
         BRANCH: ${{ inputs.branch }}
         GIST_ID: ${{ inputs.gist_id }}
-        GIST_LAYOUT: ${{ inputs.gist_layout }}
       run: |
         set -euo pipefail
         out="$RUNNER_TEMP/print-heatmap"
@@ -81,7 +77,7 @@ runs:
               --metric "$METRIC" --colors "$COLORS" --palette "$PALETTE" --timezone "$TZ_NAME" --region "$REGION")
         [ "$TITLES" = "true" ] || args+=(--no-titles)
         [ "$STRIP" = "true" ] || args+=(--no-strip)
-        [ -z "$GIST_ID" ] || args+=(--gist "$GIST_ID" --gist-layout "$GIST_LAYOUT")
+        [ -z "$GIST_ID" ] || args+=(--gist "$GIST_ID")
         python3 -m print_heatmap "${args[@]}"
 
         [ -n "$BRANCH" ] || exit 0
