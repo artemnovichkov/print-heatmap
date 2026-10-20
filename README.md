@@ -22,6 +22,25 @@ Oct ·▒▒▓▒█▓···▒··░▒··▓                53 h
 
 ## Setup
 
+### With a coding agent
+
+Paste this into Claude Code, Codex or another agent that can run `gh`:
+
+```text
+Set up https://github.com/artemnovichkov/print-heatmap for me: a GitHub Action that renders a heatmap of my Bambu Lab 3D printing into my profile README. Follow the Setup section of its README.
+
+1. Find my GitHub login with `gh api user --jq .login`. The target repo is my profile repo OWNER/OWNER; if it doesn't exist, ask me before creating it.
+2. Ask me for my time zone (IANA name) and whether I want a pinned gist too.
+3. Don't run the login yourself: it's interactive and emails me a code. Tell me to run this in my terminal and wait until I confirm:
+   uvx --from git+https://github.com/artemnovichkov/print-heatmap print-heatmap login --repo OWNER/OWNER
+4. Add .github/workflows/print-heatmap.yml from the README with my time zone, commit and push it to the default branch.
+5. Run it with `gh workflow run print-heatmap.yml --repo OWNER/OWNER`, watch it with `gh run watch`, and check that the print-heatmap branch has print-heatmap-light.svg and print-heatmap-dark.svg.
+6. Add the <picture> snippet from the README to my profile README.md, with OWNER filled in. Show me the diff before pushing.
+7. If I want a gist: create a public one with `gh gist create`, tell me to make a token with the gist scope and save it with `gh secret set GIST_TOKEN --repo OWNER/OWNER`, then add gist_id and gist_token to the workflow and run it again.
+```
+
+Or do it by hand:
+
 ### 1. Get a Bambu token and store it as a secret
 
 Run this with [uv](https://docs.astral.sh/uv/) and the [GitHub CLI](https://cli.github.com). Replace `you/you` with the repo that will run the action, usually your profile repo:
